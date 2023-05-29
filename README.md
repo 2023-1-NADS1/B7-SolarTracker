@@ -4,13 +4,13 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Solar Tracker
 
-## Nome do Grupo
+## Group Solar Tracker
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/luccagvieira/">Lucca Vieira</a>, <a href="https://www.linkedin.com/in/leonardo-augusto-camargo-5b6922162/">Leonardo Augusto Camargo</a>, <a href="https://www.linkedin.com/in/victorbarq/">João Victor Domingues de Araújo Sousa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Gustavo Trovó</a>, <a href="https://www.linkedin.com/in/victorbarq/">Jonathan Kelvin</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/victorbarq/">Adriano Felix Valente</a>, <a href="https://www.linkedin.com/in/victorbarq/">Eduardo Savino Gomes</a>
 
 ## Descrição
 
@@ -20,11 +20,11 @@
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+O projeto consiste em criar um sistema de medição da incidência solar utilizando um painel solar, um Arduino ESP WiFi, uma bateria, um sensor de luz e um pequeno alarme. O objetivo principal é coletar dados precisos sobre a intensidade da luz solar em um determinado local ao longo do tempo.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+O sistema é composto por um painel solar que capta a luz solar e a converte em energia elétrica. No entanto, neste projeto, a energia gerada pelo painel solar não é utilizada para alimentar o sistema nem armazenada na bateria. O papel do painel solar é exclusivamente coletar dados sobre a incidência solar.
 <br><br>
-May the force be with you!
+Um sensor de luz é conectado ao Arduino ESP WiFi, que é responsável por controlar e gerenciar o sistema. O sensor de luz é calibrado para medir a intensidade da luz solar e envia os dados coletados para o Arduino.
 <br><br>
 
 ## 🛠 Estrutura de pastas

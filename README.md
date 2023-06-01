@@ -88,7 +88,7 @@ Coloque código do prompt de comnando se for necessário
 A cada atualização os detalhes devem ser lançados aqui.
 
 * 0.1 - 17/05/2023
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
+    * INICIO: Versao BETA Solar Tracker.
     * Trabalho em andamento
 
 ## 📋 Licença/License

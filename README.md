@@ -35,7 +35,7 @@ Um sensor de luz é conectado ao Arduino ESP WiFi, que é responsável por contr
 |-->src<br>
   &emsp;|-->solartracker.ino<br>
   &emsp;|-->Cod.ino<br>
-  &emsp;|-->CodWIFI.ino<br>
+     &emsp;|-->CodWIFI.ino<br>
 |readme.md<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
@@ -53,19 +53,6 @@ Há também 4 pastas que seguem da seguinte forma:
 <b>src</b>: Pasta que contém o código fonte.
 
 
-## 💻 Configuração para Desenvolvimento
-
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
 
 ## 🗃 Histórico de lançamentos
 
@@ -75,15 +62,5 @@ A cada atualização os detalhes devem ser lançados aqui.
     * INICIO: Versao BETA Solar Tracker.
     * Trabalho em andamento
 
-## 📋 Licença/License
 
-
-## 🎓 Referências
-
-Aqui estão as referências usadas no projeto.
-
-1. <>
-2. <>
-3. <>
-4. <>
 

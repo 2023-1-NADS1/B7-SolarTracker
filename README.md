@@ -10,7 +10,7 @@
 
 ## Integrantes: <a href="https://www.linkedin.com/in/luccagvieira/">Lucca Vieira</a>, <a href="https://www.linkedin.com/in/leonardo-augusto-camargo-5b6922162/">Leonardo Augusto Camargo</a>, <a href="https://www.linkedin.com/in/victorbarq/">João Victor Domingues de Araújo Sousa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Gustavo Trovó</a>, <a href="https://www.linkedin.com/in/victorbarq/">Jonathan Kelvin</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/victorbarq/">Adriano Felix Valente</a>, <a href="https://www.linkedin.com/in/victorbarq/">Eduardo Savino Gomes</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes</a>
 
 ## Descrição
 
@@ -30,25 +30,19 @@ Um sensor de luz é conectado ao Arduino ESP WiFi, que é responsável por contr
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
-|<br>
 |-->imagens<br>
+ &emsp;|-->imagem.png<br>
 |-->src<br>
   &emsp;|-->solartracker.ino<br>
-  &emsp;|-->Cod.ino<br>
-     &emsp;|-->CodWIFI.ino<br>
+  &emsp;|--->Cod.ino<br>
+  &emsp;|--->CodWIFI.ino<br>
 |readme.md<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
 
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
+<b>README.MD</b>: Arquivo que serve como guia e explicação geral.
 
-Há também 4 pastas que seguem da seguinte forma:
-
-<b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
-
-<b>imagens</b>: Imagens do sistema
+<b>imagens</b>: Imagens do sistema.
 
 <b>src</b>: Pasta que contém o código fonte.
 
